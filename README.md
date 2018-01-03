@@ -1,8 +1,11 @@
 # Widgets-R-Us installer
 
-## Setup Instruction
-1. Must be able to run .sh scripts and have Node.js >= v8 installed on your computer.
-2. Clone this repo
+## Setup Instructions
+1. Dependencies:
+    - Able to run .sh scripts
+    - git
+    - Node.js >= v8
+2. Clone or download this repo
 3. Run the `install.sh` script
 4. Run the `start-database.sh` script
 5. Run the `start-server.sh` script
