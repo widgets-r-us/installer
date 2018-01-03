@@ -12,4 +12,4 @@ cd ../host
 npm install
 cd ../web-client
 npm install
-read -p "All finished, now execute start-widgets-r-us-dev-db.sh"
+read -p "All finished, now execute start-db.sh followed by start-server.sh"
