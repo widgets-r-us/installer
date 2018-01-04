@@ -2,12 +2,12 @@
 
 ## Setup Instructions
 1. Dependencies:
-    - Able to run .sh scripts
+    - Ability to run .sh scripts (if running on windows, you'll need something like cygwin, git bash, or similar)
     - git
     - Node.js >= v8
 2. Clone or download this repo
 3. Run the `install.sh` script
-4. Run the `start-database.sh` script
+4. Run the `start-db.sh` script
 5. Run the `start-server.sh` script
 6. Navigate to [http://localhost:8000](http://localhost:8000)
 
